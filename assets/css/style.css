@@ -1,5 +1,32 @@
+h1 {
+    align-content: center;
+}
+
 p {
     font-size: 14px;
     background-color: aqua;
     align-content: center;
+}
+
+body {
+    align-content: auto;
+    margin: auto 50px;
+}
+
+#numbers {
+    width: 50%;
+    align-content: center;
+    border: 10px;
+}
+
+#letters {
+    width: 50%;
+    align-content: center;
+    border: black 10px;
+}
+
+.numberscontainer {
+    width: 50%;
+    align-content: center;
+    border: 10px;
 }
