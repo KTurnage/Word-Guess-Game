@@ -1,19 +1,22 @@
+body {
+    text-align: center;
+    border: 10px 50px;
+    background-color: aqua;
+    
+}
+
 h1 {
-    align-content: center;
+    text-align: center;
 }
 
 p {
     font-size: 14px;
-    background-color: aqua;
-    align-content: center;
+
 }
 
-body {
-    align-content: auto;
-    margin: auto 50px;
-}
 
-#numbers {
+
+/* #numbers {
     width: 50%;
     align-content: center;
     border: 10px;
@@ -23,10 +26,5 @@ body {
     width: 50%;
     align-content: center;
     border: black 10px;
-}
+} */
 
-.numberscontainer {
-    width: 50%;
-    align-content: center;
-    border: 10px;
-}

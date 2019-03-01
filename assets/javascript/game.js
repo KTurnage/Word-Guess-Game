@@ -5,7 +5,10 @@
 var userInput = event.key;
 
 // Display #of wins
+var score = 0;
+
 // start game display of word with _ _ _ _ _
+
 var questions = [
     { q: "_ _ _ _ _ _", a: "i s l a n d" },
     { q: "There are 365 days in a year.", a: "t" },
@@ -13,6 +16,10 @@ var questions = [
     { q: "The Declaration of Independence was created in 1745.", a: "f" },
     { q: "Bananas are vegetables.", a: "f" }
   ];
+
+function newFunction() {
+    return 0;
+}
 // As the player guesses correct, fill in blanks _ s _ a n d
 // display number of guesses remaining
 // display letters already guessed
