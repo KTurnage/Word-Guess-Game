@@ -2,29 +2,32 @@ body {
     text-align: center;
     border: 10px 50px;
     background-color: aqua;
+    font-size: 30px;
+    
     
 }
 
-h1 {
-    text-align: center;
-}
 
 p {
-    font-size: 14px;
-
+    font-size: 30px;
 }
 
-
-
-/* #numbers {
-    width: 50%;
-    align-content: center;
-    border: 10px;
+.id {
+    font-size: 30px;
 }
 
-#letters {
-    width: 50%;
-    align-content: center;
-    border: black 10px;
-} */
+.container {
+    position: relative;
+    text-align: center;
+    color: black;
+    text-shadow: 5px;
+  }
 
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+
+  }
