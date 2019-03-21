@@ -2,7 +2,9 @@
 Try to solve the hangman mystery word. Incorrectly guessed answers will go into a letter bank, correctly guessed letters will begin to fill in the mystery word.
 
 ## Getting Started
-n/a
+[live link](https://kturnage.github.io/Word-Guess-Game/)
+
+[link to repository](https://github.com/KTurnage/Word-Guess-Game/)
 
 ### Prerequisites
 n/a
