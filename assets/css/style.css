@@ -3,10 +3,10 @@ body {
     border: 10px 50px;
     background-color: aqua;
     font-size: 30px;
-    
-    
+    /* background-image: url("../images/palm4.jpg");
+    background-repeat: no-repeat;
+    width: 100%; */
 }
-
 
 p {
     font-size: 30px;
